@@ -1,0 +1,17 @@
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\Vidiz.exe.config
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\Vidiz.exe
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\Vidiz.pdb
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\Vidiz.xml
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\MaterialSkin.dll
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\MaterialSkin.pdb
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\Interop.AXVLC.dll
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Interop.AXVLC.dll
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.vbproj.ResolveComReference.cache
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.Form1.resources
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.Resources.resources
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.vbproj.GenerateResource.Cache
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.exe
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.xml
+C:\Users\Gulzar\OneDrive\Visual Basic Programs\Vidiz\obj\Debug\Vidiz.pdb
